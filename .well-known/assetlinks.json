@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mohitrawal2321.kharchapani",
+        "sha256_cert_fingerprints": ["8A:8E:AC:6A:14:BC:1B:72:2F:54:CC:D4:D7:A7:1A:BB:13:2F:D8:FB:F7:4E:87:81:F2:36:8C:2D:6F:FF:F9:C8"]
+      }
+    }]
